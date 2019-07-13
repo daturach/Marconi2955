@@ -1,1 +1,1 @@
-# Marconi2955, different boards
+# Marconi 2955, different boards
